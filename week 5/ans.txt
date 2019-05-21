@@ -1,0 +1,5 @@
+% your PID parameters
+
+Kp = 175;
+Ki = 0.2;
+Kd = 200;
